@@ -10,8 +10,8 @@ A second analysis was done to check whether or not we can predict the price of a
 or at least if the types of restaurants around have any correlation with it; 
 The analysis found a small correlation and almost zero correlation between the number of food venues and the price of houses around.
 
-Hopping to find a better way to business owner in the resturants business to identify best areas by the type of cousine,
-Or helping house owner understand the true values of a food venues around.
+Hopping to find a better way for business owners in the restaurant business to identify best areas by the type of cuisine, 
+Or helping house owner understand the true values of food venues around.
 
 ## Findings
 
